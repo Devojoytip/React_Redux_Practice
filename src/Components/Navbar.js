@@ -19,7 +19,7 @@ const Navbar = () => {
                                 <a className="nav-link active" aria-current="page" href="#">About</a>
                             </li>
                         </ul>
-                        <span class="navbar-text bg-primary">
+                        <span className="navbar-text bg-primary">
                             Rs. 10000
                         </span>
 
